@@ -7,7 +7,7 @@
 </p>
 
 - 🌱 I’m currently learning **TS**
-- ⚡ Fun fact: **I love  learn coding**
+- ⚡ Fun fact: **I love coding**
 
 ### My stack and tools
 
