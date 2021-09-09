@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi there, I'm  Roman</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/roman-didukh/">Linkedin</a> •
-  <a href="https://t.me/romadidukh">Telegram</a> •
-  <a href="mailto:didukhroma@gmail.com">Email</a>
+ <p align="center">
+  <a href="https://www.linkedin.com/in/roman-didukh/">Linkedin</a>  •
+  <a href="https://t.me/romadidukh">Telegram</a>  •
+   <a href="mailto:didukhroma@gmail.com">Email</a>  
 </p>
 
 - 🌱 I’m currently learning **TS**
